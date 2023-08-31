@@ -3,8 +3,8 @@
 #include <MQTT.h>
 //#include <NusabotSimpleTimer.h>
 
-const char ssid[] = "SAFIRUDIN 2";
-const char pass[] = "12345678";
+const char ssid[] = "..";
+const char pass[] = "...";
 
 WiFiClient net;
 MQTTClient client;
