@@ -11,8 +11,6 @@
 char auth[] = "cKREZNX6qJveRiecbbMXKBudfZKcHS_P";  // Masukkan auth token Blynk Anda
 // char ssid[] = "Safirudin 2";                             // Masukkan nama jaringan WiFi Anda
 // char pass[] = "safirudin54321";                          // Masukkan kata sandi WiFi Anda
-char ssid[] = "pkkmb";     // Masukkan nama jaringan WiFi Anda
-char pass[] = "11111111";  // Masukkan kata sandi WiFi Anda
 
 #define PIN_SENSOR_WATERFLOW 4    // Pin yang digunakan untuk sensor flow rate
 #define FLOW_CALIBRATION_FACTOR 5  // Faktor kalibrasi untuk mengonversi pulsa menjadi liter
