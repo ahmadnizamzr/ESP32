@@ -12,9 +12,9 @@ CTBot myBot;
   String ssid  = "Safirudin 2";                                 
   String pass  = "safirudin54321";                                
                
-  String token = "5678547431:AAE07HQDUXTV8X8ukOE3BnPydyVLVb8WlSA";
-  const int id = 926692072;
-  
+  String token = "";   // token
+  const int id = ; 	// id
+   
   // Untuk Setting Perintah Pada Telegram Ganti Nama Dalam Tanda Kutip Sesuai Keinginan Anda 
      const char* Perintah_On_1 = "/NyalakanLampuTeras";
      const char* Perintah_On_2 = "/NyalakanLampuJalan";
